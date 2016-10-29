@@ -2,3 +2,5 @@
 <p>This Project is under MIT License</p>
 <p>mstrhak0r SALS is a Simple Login &amp; Signup System without mysql database</p>
 <p>DEMO: <a href="http://fbbot.vchost.ml/sals/" target="_blank">Click Me</a>
+<p>Support me! Donate me BitCoins :<br>
+1KxunqoL3K5PjufEgGHLBJmsanLXQmzNd4 </p>
