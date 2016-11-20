@@ -7,5 +7,6 @@ mstrhak0r SALS is a Simple Login &amp; Signup System without mysql database
 Purpose of project is to power Webmasters to add a lite and easy Signup and Login module to their websites without any knowledge of mysql. 
 - Information like Fullname, Username, Email Address, Password will be stored in a mstrhak0r_database.docx file in the server
 - User can Signup and Login easly and he will be redirected to index page after login and not only one page, webmaster can add and secure as many pages as infinity by adding a little code to it. :)
+
 ### Demonstration 
 http://developerbox.ml/sals/
